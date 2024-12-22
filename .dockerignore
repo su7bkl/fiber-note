@@ -1,0 +1,15 @@
+.github
+.idea
+.gitignore
+.git
+spec
+test
+.dockerignore
+Dockerfile
+README.md
+docker-compose.yml
+.env
+.rspec
+Procfile
+Procfile.dev
+app.json
